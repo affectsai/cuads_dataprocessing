@@ -1,5 +1,5 @@
 {
-    'working_dir': '/mnt/affectsai/aerds_working/',
+    'working_dir': '/mnt/affectsai/aerds/',
     'datasets': {
         'ascertain': {
             'path': '/mnt/affectsai/datasets/ascertain',
